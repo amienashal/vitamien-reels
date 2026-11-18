@@ -9,7 +9,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | # | Mitos (versi Hoaksin) | Fakta inti yang harus diverifikasi | Sumber utama | Karakter | Status |
 |---|---|---|---|---|---|
 | 1 | Berjemur jam 7 pagi = vitamin D maksimal | UVB rendah saat matahari rendah; kuat ±09–15; trik bayangan; 10–15 menit, jangan terbakar | detikHealth (dr. kulit FK UNPAD), referensi fotobiologi | Hoaksin, Vitaboy, Om Forward | tayang (Ep01, 2026-11-18, media 17882608704553503) |
-| 2 | Vitamin C 1000 mg tiap hari = kebal flu | Cochrane 2013: tak turunkan insiden; durasi −8% dewasa; serapan <50% di atas 1 g; UL 2000 mg | Cochrane CD000980; Harvard Nutrition Source | Hoaksin, Viro, Imu | siap-posting (Ep02: videos/vitamien_salahkaprah_ep02.mp4) |
+| 2 | Vitamin C 1000 mg tiap hari = kebal flu | Cochrane 2013: tak turunkan insiden; durasi −8% dewasa; serapan <50% di atas 1 g; UL 2000 mg | Cochrane CD000980; Harvard Nutrition Source | Hoaksin, Viro, Imu | sedang-diproduksi (SIANG, 2026-11-18 — posting Ep02 siap-posting) |
 | 3 | Minum tablet zat besi bareng teh/kopi biar tidak mual | Polifenol/tanin teh-kopi menghambat serapan besi non-heme; beri jeda ≥1 jam; vitamin C membantu serapan | NIH ODS Iron fact sheet | Cacing Licik, Eri | antre |
 | 4 | Bayam sumber zat besi paling top | Besi bayam non-heme & terikat oksalat → serapan rendah; daging merah, hati, ikan lebih mudah diserap (heme) | NIH ODS Iron; USDA FoodData | Cacing Licik, Eri | antre |
 | 5 | Multivitamin bisa gantikan sayur & buah | USPSTF 2022: bukti tak cukup multivitamin cegah penyakit jantung/kanker; makanan utuh punya serat & zat lain | USPSTF 2022 (JAMA) | Hoaksin, Vitaboy | antre |
