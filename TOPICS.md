@@ -11,7 +11,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 1 | Berjemur jam 7 pagi = vitamin D maksimal | UVB rendah saat matahari rendah; kuat ±09–15; trik bayangan; 10–15 menit, jangan terbakar | detikHealth (dr. kulit FK UNPAD), referensi fotobiologi | Hoaksin, Vitaboy, Om Forward | tayang (Ep01, 2026-11-18, media 17882608704553503) |
 | 2 | Vitamin C 1000 mg tiap hari = kebal flu | Cochrane 2013: tak turunkan insiden; durasi −8% dewasa; serapan <50% di atas 1 g; UL 2000 mg | Cochrane CD000980; Harvard Nutrition Source | Hoaksin, Viro, Imu | tayang (Ep02, 2026-11-18, media 18031423640874610) |
 | 3 | Minum tablet zat besi bareng teh/kopi biar tidak mual | Polifenol/tanin teh-kopi menghambat serapan besi non-heme; beri jeda ≥1 jam; vitamin C membantu serapan | NIH ODS Iron fact sheet | Cacing Licik, Eri | tayang (Ep03, 2026-11-18, media 18474170500142913) |
-| 4 | Bayam sumber zat besi paling top | Besi bayam non-heme & terikat oksalat → serapan rendah; daging merah, hati, ikan lebih mudah diserap (heme) | NIH ODS Iron; USDA FoodData | Cacing Licik, Eri | antre |
+| 4 | Bayam sumber zat besi paling top | Besi bayam non-heme & terikat oksalat → serapan rendah; daging merah, hati, ikan lebih mudah diserap (heme) | NIH ODS Iron; USDA FoodData | Cacing Licik, Eri | sedang-diproduksi (MALAM, 2026-11-18) |
 | 5 | Multivitamin bisa gantikan sayur & buah | USPSTF 2022: bukti tak cukup multivitamin cegah penyakit jantung/kanker; makanan utuh punya serat & zat lain | USPSTF 2022 (JAMA) | Hoaksin, Vitaboy | antre |
 | 6 | Vitamin bikin badan langsung berenergi | Vitamin tidak mengandung kalori; vitamin B membantu metabolisme energi, terasa efeknya hanya bila defisiensi | NIH ODS (vitamin B) | Hoaksin, Om Forward | antre |
 | 7 | Minum vitamin bikin gemuk | Vitamin tidak berkalori; nafsu makan bisa membaik bila sebelumnya defisiensi | NIH ODS | Hoaksin | antre |
@@ -22,7 +22,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 12 | Vitamin D dosis super besar sekaligus = cepat sehat | Risiko hiperkalsemia; UL dewasa 4.000 IU/hari kecuali diawasi dokter | NIH ODS Vitamin D | Hoaksin, Vitaboy | antre |
 | 13 | Tinggal di negara tropis pasti cukup vitamin D | Banyak orang Indonesia kadar vitamin D-nya rendah (aktivitas dalam ruangan, pakaian tertutup, polusi) | Studi prevalensi Indonesia (verifikasi tiap run) | Vitaboy, Om Forward | antre |
 | 14 | Minum kalsium saja cukup buat tulang kuat | Perlu vitamin D untuk serapan + olahraga beban | NIH ODS Calcium; Bone Health | Vitaboy, Eri | antre |
-| 15 | Kalsium & zat besi diminum bareng biar praktis | Kalsium menghambat serapan besi; beri jeda | NIH ODS Iron/Calcium | Cacing Licik, Eri | antre |
+| 15 | Kalsium & zat besi diminum bareng biar praktis | Kalsium menghambat serapan besi; beri jeda | NIH ODS Iron/Calcium | Cacing Licik, Eri | sedang-diproduksi (MALAM, 2026-11-18) |
 | 16 | Susu sapi satu-satunya sumber kalsium | Tahu, tempe, ikan teri, sayur hijau tertentu juga sumber kalsium | TKPI Kemenkes; NIH ODS Calcium | Vitaboy | antre |
 | 17 | Kekurangan B12 cuma masalah vegetarian | Lansia, pengguna metformin & obat lambung (PPI) jangka panjang juga berisiko | NIH ODS Vitamin B12 | Eri | antre |
 | 18 | Asam folat diminum setelah tahu hamil | Mulai minimal 1 bulan sebelum hamil; tabung saraf menutup di awal kehamilan | CDC Folic Acid; WHO | Vitaboy | antre |
