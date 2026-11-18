@@ -22,7 +22,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 12 | Vitamin D dosis super besar sekaligus = cepat sehat | Risiko hiperkalsemia; UL dewasa 4.000 IU/hari kecuali diawasi dokter | NIH ODS Vitamin D | Hoaksin, Vitaboy | antre |
 | 13 | Tinggal di negara tropis pasti cukup vitamin D | Banyak orang Indonesia kadar vitamin D-nya rendah (aktivitas dalam ruangan, pakaian tertutup, polusi) | Studi prevalensi Indonesia (verifikasi tiap run) | Vitaboy, Om Forward | antre |
 | 14 | Minum kalsium saja cukup buat tulang kuat | Perlu vitamin D untuk serapan + olahraga beban | NIH ODS Calcium; Bone Health | Vitaboy, Eri | antre |
-| 15 | Kalsium & zat besi diminum bareng biar praktis | Kalsium menghambat serapan besi; beri jeda | NIH ODS Iron/Calcium | Cacing Licik, Eri | sedang-diproduksi (MALAM, 2026-11-18) |
+| 15 | Kalsium & zat besi diminum bareng biar praktis | Kalsium menghambat serapan besi; beri jeda | NIH ODS Iron/Calcium | Cacing Licik, Eri | antre |
 | 16 | Susu sapi satu-satunya sumber kalsium | Tahu, tempe, ikan teri, sayur hijau tertentu juga sumber kalsium | TKPI Kemenkes; NIH ODS Calcium | Vitaboy | antre |
 | 17 | Kekurangan B12 cuma masalah vegetarian | Lansia, pengguna metformin & obat lambung (PPI) jangka panjang juga berisiko | NIH ODS Vitamin B12 | Eri | antre |
 | 18 | Asam folat diminum setelah tahu hamil | Mulai minimal 1 bulan sebelum hamil; tabung saraf menutup di awal kehamilan | CDC Folic Acid; WHO | Vitaboy | antre |
