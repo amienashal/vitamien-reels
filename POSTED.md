@@ -6,3 +6,4 @@
 | 02 | 2026-11-18 11:55 | Vitamin C 1000 mg tiap hari = kebal flu | 18031423640874610 | videos/vitamien_salahkaprah_ep02.mp4 |
 | 03 | 2026-11-18 16:37 | Minum tablet zat besi bareng teh/kopi biar tidak mual | 18474170500142913 | videos/vitamien_salahkaprah_ep03.mp4 |
 | 04 | 2026-11-18 20:34 | Bayam sumber zat besi paling top | 18112191155567635 | videos/vitamien_salahkaprah_ep04.mp4 |
+| 05 | 2026-11-19 12:07 | Multivitamin bisa gantikan sayur & buah | 18172501645467184 | videos/vitamien_salahkaprah_ep05.mp4 |
