@@ -6,6 +6,7 @@ import { Ep1Comp } from "./Ep1";
 import { Ep2Comp } from "./Ep2";
 import { Ep3Comp } from "./Ep3";
 import { Ep4Comp } from "./Ep4";
+import { Ep5Comp } from "./Ep5";
 import { PfpComps } from "./PfpComps";
 
 export const RemotionRoot: React.FC = () => {
@@ -19,6 +20,7 @@ export const RemotionRoot: React.FC = () => {
       <Ep2Comp />
       <Ep3Comp />
       <Ep4Comp />
+      <Ep5Comp />
       <PfpComps />
     </>
   );
