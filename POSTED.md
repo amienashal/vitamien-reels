@@ -8,3 +8,4 @@
 | 04 | 2026-11-18 20:34 | Bayam sumber zat besi paling top | 18112191155567635 | videos/vitamien_salahkaprah_ep04.mp4 |
 | 05 | 2026-11-19 12:07 | Multivitamin bisa gantikan sayur & buah | 18172501645467184 | videos/vitamien_salahkaprah_ep05.mp4 |
 | 06 | 2026-11-19 16:33 | Vitamin bikin badan langsung berenergi | 18136855661508993 | videos/vitamien_salahkaprah_ep06.mp4 |
+| 07 | 2026-11-19 20:36 | Minum vitamin bikin gemuk | 18098728097671783 | videos/vitamien_salahkaprah_ep07.mp4 |
