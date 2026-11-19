@@ -19,7 +19,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 9 | Vitamin larut air pasti aman, kelebihannya dibuang | B6 dosis tinggi jangka panjang → neuropati; niasin dosis tinggi → flushing, gangguan hati | NIH ODS Vitamin B6, Niacin | Hoaksin | antre |
 | 10 | Vitamin A/wortel bikin mata minus sembuh | Defisiensi vit A → rabun senja; tidak memperbaiki kelainan refraksi (minus) | WHO vit A deficiency; AAO | Hoaksin, Om Forward | antre |
 | 11 | Biotin bikin rambut lebat untuk semua orang | Manfaat hanya pada defisiensi (jarang); biotin dosis tinggi bisa mengacaukan hasil lab (mis. troponin, tiroid) — peringatan FDA | FDA Safety Communication biotin | Hoaksin | antre |
-| 12 | Vitamin D dosis super besar sekaligus = cepat sehat | Risiko hiperkalsemia; UL dewasa 4.000 IU/hari kecuali diawasi dokter | NIH ODS Vitamin D | Hoaksin, Vitaboy | sedang-diproduksi (SIANG, 2026-11-19) |
+| 12 | Vitamin D dosis super besar sekaligus = cepat sehat | Risiko hiperkalsemia; UL dewasa 4.000 IU/hari kecuali diawasi dokter | NIH ODS Vitamin D | Hoaksin, Vitaboy | antre |
 | 13 | Tinggal di negara tropis pasti cukup vitamin D | Banyak orang Indonesia kadar vitamin D-nya rendah (aktivitas dalam ruangan, pakaian tertutup, polusi) | Studi prevalensi Indonesia (verifikasi tiap run) | Vitaboy, Om Forward | antre |
 | 14 | Minum kalsium saja cukup buat tulang kuat | Perlu vitamin D untuk serapan + olahraga beban | NIH ODS Calcium; Bone Health | Vitaboy, Eri | antre |
 | 15 | Kalsium & zat besi diminum bareng biar praktis | Kalsium menghambat serapan besi; beri jeda | NIH ODS Iron/Calcium | Cacing Licik, Eri | antre |
