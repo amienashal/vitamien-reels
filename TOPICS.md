@@ -17,7 +17,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 7 | Minum vitamin bikin gemuk | Vitamin tidak berkalori; nafsu makan bisa membaik bila sebelumnya defisiensi | NIH ODS | Hoaksin | antre |
 | 8 | Makin banyak vitamin, makin sehat | Vitamin larut lemak (A, D) bisa menumpuk & toksik; ada batas atas (UL) | NIH ODS Vitamin A & D | Si Radikal, Vitaboy | antre |
 | 9 | Vitamin larut air pasti aman, kelebihannya dibuang | B6 dosis tinggi jangka panjang → neuropati; niasin dosis tinggi → flushing, gangguan hati | NIH ODS Vitamin B6, Niacin | Hoaksin | antre |
-| 10 | Vitamin A/wortel bikin mata minus sembuh | Defisiensi vit A → rabun senja; tidak memperbaiki kelainan refraksi (minus) | WHO vit A deficiency; AAO | Hoaksin, Om Forward | sedang-diproduksi (SORE, 2026-11-19) |
+| 10 | Vitamin A/wortel bikin mata minus sembuh | Defisiensi vit A → rabun senja; tidak memperbaiki kelainan refraksi (minus) | WHO vit A deficiency; AAO | Hoaksin, Om Forward | antre |
 | 11 | Biotin bikin rambut lebat untuk semua orang | Manfaat hanya pada defisiensi (jarang); biotin dosis tinggi bisa mengacaukan hasil lab (mis. troponin, tiroid) — peringatan FDA | FDA Safety Communication biotin | Hoaksin | antre |
 | 12 | Vitamin D dosis super besar sekaligus = cepat sehat | Risiko hiperkalsemia; UL dewasa 4.000 IU/hari kecuali diawasi dokter | NIH ODS Vitamin D | Hoaksin, Vitaboy | antre |
 | 13 | Tinggal di negara tropis pasti cukup vitamin D | Banyak orang Indonesia kadar vitamin D-nya rendah (aktivitas dalam ruangan, pakaian tertutup, polusi) | Studi prevalensi Indonesia (verifikasi tiap run) | Vitaboy, Om Forward | antre |
@@ -32,7 +32,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 22 | Antioksidan dosis tinggi pasti cegah kanker | Beta-karoten dosis tinggi meningkatkan kanker paru pada perokok (ATBC, CARET) | NCI; NIH ODS Vitamin A | Si Radikal | antre |
 | 23 | Semua yogurt pasti probiotik | Manfaat bergantung strain & jumlah bakteri hidup; produk yang dipanaskan setelah fermentasi tak lagi hidup | NCCIH Probiotics | Probi | antre |
 | 24 | Probiotik semua merek sama saja | Efek spesifik strain; tidak bisa disamaratakan | NCCIH Probiotics | Probi | antre |
-| 25 | Suplemen herbal pasti aman karena alami | Bisa berinteraksi dengan obat & ada laporan cedera hati; cek izin BPOM | NCCIH; BPOM | Hoaksin, Om Forward | sedang-diproduksi (SORE, 2026-11-19) |
+| 25 | Suplemen herbal pasti aman karena alami | Bisa berinteraksi dengan obat & ada laporan cedera hati; cek izin BPOM | NCCIH; BPOM | Hoaksin, Om Forward | antre |
 | 26 | Vitamin paling bagus diminum saat perut kosong | Vitamin larut lemak (A, D, E, K) lebih terserap bersama makanan berlemak | NIH ODS | Vitaboy | antre |
 | 27 | Memasak sayur menghilangkan semua vitamin | Vitamin C & sebagian B sensitif panas/air; vitamin larut lemak relatif stabil; kukus/sebentar lebih baik | USDA nutrient retention | Vitaboy | antre |
 | 28 | Vitamin K cuma untuk bayi baru lahir | Penting untuk pembekuan darah semua usia; perlu konsisten bila memakai warfarin | NIH ODS Vitamin K | Eri | antre |
