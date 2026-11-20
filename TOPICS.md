@@ -28,7 +28,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 18 | Asam folat diminum setelah tahu hamil | Mulai minimal 1 bulan sebelum hamil; tabung saraf menutup di awal kehamilan | CDC Folic Acid; WHO | Vitaboy | antre |
 | 19 | Zinc dosis tinggi = imun makin kuat | Kelebihan zinc → defisiensi tembaga; UL dewasa 40 mg/hari | NIH ODS Zinc | Viro, Imu | antre |
 | 20 | Antibiotik bisa sembuhkan flu | Flu/pilek disebabkan virus; antibiotik tak bekerja pada virus & memicu resistansi | WHO antimicrobial resistance; CDC | Viro, Imu | antre |
-| 21 | Jus detoks buang racun dari tubuh | Hati & ginjal yang mendetoksifikasi; bukti produk detoks lemah | NCCIH "Detoxes and Cleanses" | Si Radikal, Vitaboy | sedang-diproduksi (MALAM, 2026-11-20) |
+| 21 | Jus detoks buang racun dari tubuh | Hati & ginjal yang mendetoksifikasi; bukti produk detoks lemah | NCCIH "Detoxes and Cleanses" | Si Radikal, Vitaboy | antre |
 | 22 | Antioksidan dosis tinggi pasti cegah kanker | Beta-karoten dosis tinggi meningkatkan kanker paru pada perokok (ATBC, CARET) | NCI; NIH ODS Vitamin A | Si Radikal | antre |
 | 23 | Semua yogurt pasti probiotik | Manfaat bergantung strain & jumlah bakteri hidup; produk yang dipanaskan setelah fermentasi tak lagi hidup | NCCIH Probiotics | Probi | antre |
 | 24 | Probiotik semua merek sama saja | Efek spesifik strain; tidak bisa disamaratakan | NCCIH Probiotics | Probi | antre |
