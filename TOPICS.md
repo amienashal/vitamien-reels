@@ -15,7 +15,7 @@ Status: `siap-posting` · `antre` · `sedang-diproduksi (slot, tanggal)` · `tay
 | 5 | Multivitamin bisa gantikan sayur & buah | USPSTF 2022: bukti tak cukup multivitamin cegah penyakit jantung/kanker; makanan utuh punya serat & zat lain | USPSTF 2022 (JAMA) | Hoaksin, Vitaboy | tayang (Ep05, 2026-11-19, media 18172501645467184) |
 | 6 | Vitamin bikin badan langsung berenergi | Vitamin tidak mengandung kalori; vitamin B membantu metabolisme energi, terasa efeknya hanya bila defisiensi | NIH ODS (vitamin B) | Hoaksin, Om Forward | tayang (Ep06, 2026-11-19, media 18136855661508993) |
 | 7 | Minum vitamin bikin gemuk | Vitamin tidak berkalori; nafsu makan bisa membaik bila sebelumnya defisiensi | NIH ODS | Hoaksin | tayang (Ep07, 2026-11-19, media 18098728097671783) |
-| 8 | Makin banyak vitamin, makin sehat | Vitamin larut lemak (A, D) bisa menumpuk & toksik; ada batas atas (UL) | NIH ODS Vitamin A & D | Si Radikal, Vitaboy | sedang-diproduksi (MALAM, 2026-11-20) |
+| 8 | Makin banyak vitamin, makin sehat | Vitamin larut lemak (A, D) bisa menumpuk & toksik; ada batas atas (UL) | NIH ODS Vitamin A & D | Si Radikal, Vitaboy | antre |
 | 9 | Vitamin larut air pasti aman, kelebihannya dibuang | B6 dosis tinggi jangka panjang → neuropati; niasin dosis tinggi → flushing, gangguan hati | NIH ODS Vitamin B6, Niacin | Hoaksin | antre |
 | 10 | Vitamin A/wortel bikin mata minus sembuh | Defisiensi vit A → rabun senja; tidak memperbaiki kelainan refraksi (minus) | WHO vit A deficiency; AAO | Hoaksin, Om Forward | antre |
 | 11 | Biotin bikin rambut lebat untuk semua orang | Manfaat hanya pada defisiensi (jarang); biotin dosis tinggi bisa mengacaukan hasil lab (mis. troponin, tiroid) — peringatan FDA | FDA Safety Communication biotin | Hoaksin | antre |
