@@ -17,17 +17,20 @@ Dipakai oleh jadwal 3x sehari. Setiap run = 1 episode utuh, dari topik sampai te
 
 ## 1. Siapkan
 - Clone repo, `npm i`. Font sudah lokal di `public/fonts`.
-- `pip install --break-system-packages faster-whisper` (timing subtitle).
+- `pip install --break-system-packages edge-tts` (voice over gratis + timing subtitle).
 
 ## 2. Naskah (target 30–40 detik)
 - Struktur: (a) villain di markas, mode `menace`, menyebar mitos (Hoaksin + anak buah sesuai topik, suara villain), (b) Vitaboy datang "STOP! SALAH KAPRAH!", (c) 3–4 beat fakta dengan visual data, (d) cara yang benar, (e) "Hoaks tumbang! Follow vitamien dot io!".
 - Bahasa Indonesia santai, kalimat pendek, angka bulat yang tetap akurat.
 
-## 3. Suara (ElevenLabs, flow `kXwWge9P2bMp3F35fLEG`, generations_count 1)
-- Narator: voice `VUirSLTrc1D6kORqzdNo` (clone Amien), model eleven_v4, tag [energetic].
-- Hoaksin: `WzVKtqQpTUUQ2JNx8YxI` [whispering, sinister]. Viro: `1aPDmPEYltTp3yDMQLiT` [growling, menacing].
-- Unduh via creative_get_generations full_res_url → `public/epN/`. Percepat narator atempo 1.08–1.12, villain dipotong & dipercepat.
-- Transkrip word-level dengan faster-whisper (bahasa id), perbaiki ejaan, gabung jadi `src/epN_words.json`.
+## 3. Suara (Edge TTS gratis — menggantikan ElevenLabs sejak 2026-11-20)
+- Tidak butuh kunci API/kredit. Pakai `scripts/tts_edge.py` (Microsoft Edge neural voice `id-ID-ArdiNeural`).
+- Peran: `n` = narator/Vitaboy (Ardi, rate +12%), `hx` = Hoaksin (Ardi pitch rendah + echo + bass), `viro` = Viro/villain lain (lebih berat + distorsi).
+- Contoh: `python3 scripts/tts_edge.py hx "<dialog villain>" public/epN/hx.wav /tmp/hx.json` lalu `python3 scripts/tts_edge.py n "<naskah narator>" public/epN/nar.wav /tmp/n.json --offset <detik mulai narator>`.
+- Timing per kata langsung dari Edge (WordBoundary) — faster-whisper TIDAK diperlukan lagi. Gabungkan JSON (urut waktu) jadi `src/epN_words.json` (format `{w,s,e,who}`), cek ejaan/angka di subtitle.
+- Tulis angka & singkatan sebagaimana diucapkan bila perlu (mis. "empat ribu I U"), lalu perbaiki tampilannya di words.json.
+- Bila Edge TTS gagal (audio kosong/error koneksi) → langkah gagal: jangan posting, kembalikan topik ke `antre`, laporkan.
+- Kredit suara: 0 (gratis).
 
 ## 4. Animasi
 - Salin `src/Ep2.tsx` sebagai pola → `src/EpN.tsx`; ganti scene sesuai naskah; daftarkan di `src/Root.tsx`.
@@ -43,4 +46,4 @@ Dipakai oleh jadwal 3x sehari. Setiap run = 1 episode utuh, dari topik sampai te
 
 ## 6. Catat
 - Ubah status topik di `TOPICS.md` → `tayang (EpNN, tanggal, media id)`, commit & push (sertakan MP4 di videos/ dan src/EpN.tsx). Bila Project claude.ai "Vitamien.io" bisa diakses, samakan juga `claude/bank-topik-salah-kaprah.md`.
-- Laporkan ke pemilik: judul, link post, sumber, biaya kredit.
+- Laporkan ke pemilik: judul, link post, sumber.
